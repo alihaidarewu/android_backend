@@ -4,7 +4,7 @@
   "main": "index.js",
   "scripts": {
     "start": "nodemon ./dist/index.js",
-    "build": "tsc --watch"
+    "build": "tsc"
   },
   "keywords": [],
   "author": "",
