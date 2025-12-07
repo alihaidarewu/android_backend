@@ -3,8 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon ./dist/index.js",
-    "build": "tsc"
+    "start": "nodemon ./dist/index.js"
   },
   "keywords": [],
   "author": "",
